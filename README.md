@@ -13,26 +13,6 @@ I'm passionate about creating **command-line tools**, **developer utilities**, a
 - **Network Utilities** - Bridging connections between systems
 - **Desktop Applications** - Enhancing Linux desktop experiences
 
-## Featured Projects
-
-### [plank-reloaded](https://github.com/tezu7/plank-reloaded) ![Stars](https://img.shields.io/github/stars/tezu7/plank-reloaded?style=flat-square&color=yellow)
-**Lightweight Linux dock** - Modern, customizable dock for X11 desktops
-
-*Vala • 170+ stars • GTK themes support*
-
-### [omniauth-google-oauth2](https://github.com/tezu7/omniauth-google-oauth2) ![Stars](https://img.shields.io/github/stars/tezu7/omniauth-google-oauth2?style=flat-square&color=yellow)
-**OAuth2 strategy for Google** - Simplifying authentication for Ruby applications
-
-*Ruby • 1.5k+ stars • 400+ forks*
-
-### [s](https://github.com/tezu7/s) ![Stars](https://img.shields.io/github/stars/tezu7/s?style=flat-square&color=yellow)
-**Open a web search in your terminal** - Because why leave the command line?
-
-*Go • 2.5k+ stars • 120+ forks*
-
-### [fortunate](https://github.com/tezu7/fortunate) ![Stars](https://img.shields.io/github/stars/tezu7/fortunate?style=flat-square&color=yellow)
-**A beautiful motivation/fortune app for Linux and macOS**
-
 *Go • Clean, minimal implementation*
 
 ## Tech Stack

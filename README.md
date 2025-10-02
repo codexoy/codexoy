@@ -1,68 +1,25 @@
-# Terminal Enthusiast • Open Source Contributor
-
-*"I like terminal prompts"* - and building tools that make developers' lives easier
-
----
-
-## What I Build
-
-I'm passionate about creating **command-line tools**, **developer utilities**, and **system integrations** that streamline workflows. My projects focus on:
-
-- **Search & Productivity Tools** - Making information accessible from the terminal
-- **Authentication & OAuth** - Simplifying secure integrations
-- **Network Utilities** - Bridging connections between systems
-- **Desktop Applications** - Enhancing Linux desktop experiences
-
-*Go • Clean, minimal implementation*
-
-## Tech Stack
-
-```bash
-# Languages I love working with
-Go | Ruby | JavaScript | Vala | Shell
-
-# Areas of expertise
-CLI Tools | OAuth/Auth | Web APIs | System Integration | Desktop Apps
-
-# Platforms
-Linux | macOS | Web
+# About me
+```dart
+class MyApp extends StatelessWidget {
+  final Map<String, dynamic> developerProfile = {
+    "name": "Codexoy",
+    "introduction": {
+      "title": "Hey there! I'm Codexoy.",
+      "description": "You know that friend who can't stop taking apart gadgets to see how they work? That's me, but with code. I start my days with coffee in one hand and a new problem to solve in the other—there's nothing quite like the thrill of turning a blank screen into something people actually use."
+    },
+    "passion": {
+      "title": "What gets me truly excited",
+      "description": "is building things that matter. Not just another app that gets downloaded and forgotten, but tools that become part of someone's workflow. Platforms that handle growth without crumbling. AI assistants that actually understand what you need. The real magic happens when all these pieces come together—when smart backends feed into intuitive frontends, and the technology just disappears into the background of people's lives."
+    },
+    "callToAction": {
+      "title": "Let's connect",
+      "description": "I'm always up for a good challenge and love connecting with others who are passionate about building things that make a difference. If you've got an idea that needs bringing to life, I'd love to hear about it. Let's create something memorable together."
+    },
+    "specialties": [
+      "Mobile Development",
+      "Full Stack Platforms", 
+      "AI Assistants",
+      "Scalable Solutions"
+    ]
+  };
 ```
-
-## GitHub Stats
-
-![Josh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=tezu7&show_icons=true&theme=dark&bg_color=0d1117&border_color=30363d&icon_color=58a6ff&title_color=58a6ff&text_color=c9d1d9)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tezu7&layout=compact&theme=dark&bg_color=0d1117&border_color=30363d&title_color=58a6ff&text_color=c9d1d9)
-
-## Achievements
-
-- **Arctic Code Vault Contributor** - Code preserved for future generations
-- **Pull Shark** - Merged pull requests that made a difference
-- **Starstruck** - Projects that the community loves
-- **Pair Extraordinaire** - Collaborative development
-
-## About Me
-
-**Terminal Enthusiast** - If it can be done in the terminal, that's where I'll do it
-
-**Open Source Advocate** - Believing in the power of community-driven development
-
-**Tool Builder** - I see a problem, I build a solution (usually a CLI tool)
-
-## Support My Development
-
-If my projects have helped you or you'd like to support continued development of open source tools:
-
-[![Tip in Crypto](https://tip.md/badge.svg)](https://tip.md/zquestz)
-
-## Let's Connect
-
-I'm always interested in collaborating on interesting projects, especially those involving:
-- Command-line utilities and developer tools
-- OAuth/authentication systems
-- Go applications and libraries
-- Open source contributions
-
----
-
-*"The best tools are the ones that get out of your way"*
